@@ -1,7 +1,7 @@
 //  Variaveis //
 
-let Nome = "JOSE";
-let XP  = "4300";
+let Nome = "";
+let XP  = "";
 let NIVEL = "";
 
 // Estrutura de  //
