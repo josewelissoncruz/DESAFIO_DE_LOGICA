@@ -1,10 +1,10 @@
 //  Variaveis //
 
-let Nome = "";
-let XP  = "";
+let Nome = "";  // Digite o nome do seu héroi //
+let XP  = "";   // Digite o XP do seu héroi //
 let NIVEL = "";
 
-// Estrutura de  //
+// Estrutura de  decisão//
 
 if (XP <= 100) {
     NIVEL = "Ferro";
@@ -23,5 +23,7 @@ if (XP <= 100) {
 } else if (XP >= 10001) {
     NIVEL = "Radiante";
 } 
+
+// saida //
 
 console.log("O Héroi de nome " + Nome + " está no nível: " + NIVEL);
